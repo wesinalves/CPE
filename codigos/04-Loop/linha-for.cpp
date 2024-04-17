@@ -13,8 +13,14 @@ int main() {
   cout << "Tamanho: ";
   cin >> n; //leitura do comprimento da linha
 
-  for (i = 0; i < n; i++) //impressao
+  for (i = 0; i < n; i++){
+    
     cout << "*";
+    if(i == 5){
+      continue;
+    }    
+
+  } //impressao
     
   	cout << "\n";
     
