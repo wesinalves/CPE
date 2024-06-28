@@ -1,0 +1,2 @@
+Isto e uma linha de texto.
+Isto e outra linha de texto.
