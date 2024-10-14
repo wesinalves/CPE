@@ -39,11 +39,11 @@ metodologias de ensino supramencionadas.
 * Para o cálculo da média final da disciplina, consideram-se as seguintes
 medidas:
 
-Módulo 01: $M01 = 0,8*P1 + 0,2*EX$
+Módulo 01: $M01 = P1$
 
-Módulo 02: $M02 = 0,8*P2 + 0,2*EX$
+Módulo 02: $M02 = P2$
 
-Módulo 03: $M03 = 0,8*PC + 0,2*EX$
+Módulo 03: $M03 = PC$
 
 Média Final: $MF = (M01 + M02 + M03) / 3$
 
