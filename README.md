@@ -35,7 +35,7 @@ construtivista, no qual as partes interessadas trocam conhecimentos.
 metodologias de ensino supramencionadas.
 
 ## Critérios de avaliação
-* Duas Provas práticas de pesos distintos, Lista de exercícios e um Projeto computacional.
+* Duas Provas práticas (P1 e P2), um Projeto computacional (PC).
 * Para o cálculo da média final da disciplina, consideram-se as seguintes
 medidas:
 
